@@ -1,0 +1,18 @@
+Database :- Used to insert the records.
+
+We have two types of DB
+
+1:- System Defined :- Automatically create  ;  we cannot delete
+2:- User Defined :- Which user creates.  ;     we can delete
+
+
+To create database 
+ Create database <Database_Name>
+
+
+To Rename database
+  Alter database <Old_DatabaseName> Modifiy Name = <New_DatabaseName
+
+ Two files will get create when we create new database
+1:- Mdf   master data file
+2:- Ldf   Log data files
